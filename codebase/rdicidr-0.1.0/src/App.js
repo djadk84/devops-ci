@@ -11,7 +11,7 @@ function App() {
       <footer>
         <hr />
         If you enjoy this tool, you will enjoy reading my blog:{" "}
-        <a href="https://rderik.com">rderik.com</a>
+        <a href="https://rderik.com/feed.xml">rderik.com</a>
       </footer>
     </div>
   );
